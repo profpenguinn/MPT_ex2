@@ -37,6 +37,5 @@ class MainActivity : AppCompatActivity() {
             startActivity(intent)
         }
 
-        sex
     }
 }
